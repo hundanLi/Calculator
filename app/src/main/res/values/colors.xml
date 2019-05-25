@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BF0A07</color>
+    <color name="colorPrimaryDark">#37B8C1</color>
+    <color name="colorAccent">#DF9665</color>
+    <color name="operatorColor">#182EF7</color>
+    <color name="warningColor">#CC0000</color>
+    <color name="backspaceColor">#DC6013</color>
+    <color name="green">#A4F899</color>
+</resources>
